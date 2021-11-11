@@ -26,12 +26,12 @@
 ### Languages and Tools
 
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="RxSwift" width="26px" src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/Rx_Logo_M.png" />
-<img align="left" alt="SwiftUI" width="26px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
-<img align="left" alt="Xcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Xcode_Icon.png/1200px-Xcode_Icon.png" />
-<img align="left" alt="Sourcetree" width="26px" src="https://pbs.twimg.com/profile_images/907270522492383232/8wgOvccc_400x400.jpg" />
+<img align="left" alt="RxSwift" width="26px" src="https://raw.github.com/ReactiveX/RxSwift/2.0.0/assets/Rx_Logo_M.png" />
+<img align="left" alt="SwiftUI" width="26px" src="https://img.stackshare.io/service/11099/swiftui.png" />
+<img align="left" alt="Xcode" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/4/48/Xcode_1024x1024x32.png/revision/latest?cb=20200528092719" />
+<img align="left" alt="Sourcetree" width="26px" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
@@ -40,7 +40,10 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=philipengberg&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=philipengberg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipengberg&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/philipengberg
 [instagram]: https://instagram.com/philipengbergn
